@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkata Sudarsan Akhil Adari</h1>
-<h3 align="center">Expertise in Machine Learning</h3>
+<h3 align="center">I excel in data preprocessing, feature engineering, model selection, and hyperparameter tuning to achieve optimal performance in machine learning tasks.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 - 🌱 I’m currently learning **Deep Learning**
