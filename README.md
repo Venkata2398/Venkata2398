@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Deep Learning**
 
 - 📫 How to reach me: **adariakhil3@gmail.com**
-
+![Venkata2398's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Venkata2398&theme=vue-dark&hide_border=true)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akhil-adari" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhil adari" height="30" width="40" /></a>
