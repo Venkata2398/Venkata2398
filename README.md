@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Venkata Sudarsan Akhil Adari</h1>
 <h3 align="center">Expertise in Machine Learning</h3>
-<img align="right" alt="Coding" width="400" src="https://gifer.com/en/OyGx" />
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/16762086-Programmer-character-animation" />
 
 - 🌱 I’m currently learning **Deep Learning**
 
